@@ -1,0 +1,7 @@
+Howard|Paredes Zegarra|Computacion|1500.00
+Penny|Vargas Cordero|Industrial|2550.50
+Sheldon|Cooper Quizpe|Mecatronica|1850.00
+Lidya|Cooper Quizpe|Mecatronica|1850.00
+Thony|Cooper Quizpe|Mecatronica|1850.00
+sael|olivares|cs|1234.000000
+Jase|Hitler|Artes|1236.121948
